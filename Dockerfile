@@ -5,7 +5,7 @@ LABEL maintainer="KochiCity"
 
 COPY index.html /usr/share/nginx/html
 
-COPY KochiAttraction*.jpg /usr/share/nginx/html/
+COPY KochiAttraction*.jpeg /usr/share/nginx/html/
 
 EXPOSE 80
 
